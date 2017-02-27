@@ -1,0 +1,1485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGistSamples xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GistSamples>
+    <SampleName>accordion/default-functionalities</SampleName>
+    <SampleID>9c155743e5fc958a34cf6399653dea02
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>accordion/API's</SampleName>
+    <SampleID>12d718b5987d782abad127237803fbc7
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>accordion/events</SampleName>
+    <SampleID>3eae90d8afaa9b42fae911fb48bc9537
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>accordion/multiple-open</SampleName>
+    <SampleID>9e59e3ae2e1383a88422e35d9a97ed16
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>autocomplete/basic-use</SampleName>
+    <SampleID>af407207410a9f8220ee5c73eed32274
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>autocomplete/template</SampleName>
+    <SampleID>1a4a7905eaab0e0e89546c89ab82b8ed
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>autocomplete/multiple-values</SampleName>
+    <SampleID>0fcd4d99d353d60cdacffcb676bb38e4
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>autocomplete/grouping</SampleName>
+    <SampleID>6c027b2e02863f25cbdf510b3f5ba9c1
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>autocomplete/auto-fill</SampleName>
+    <SampleID>e36faf480fa25b24263d4a4bbb588fa7
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>autocomplete/data-binding-remote-data</SampleName>
+    <SampleID>75ddc61805f8d9378167c1d577707c67
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>autocomplete/data-binding-local-data</SampleName>
+    <SampleID>560e07e08db2009a5d061361c712985b
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>barcode/qrbarcode</SampleName>
+    <SampleID>27ff1d2fb2d3657fe358843d801567bc
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>barcode/codabar</SampleName>
+    <SampleID>6b51c3b27ef072d617ae96bd123a81cb
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>barcode/code11</SampleName>
+    <SampleID>6c4e38369253be10fc24918bd9173170
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>barcode/code32</SampleName>
+    <SampleID>ba34a6191ea2e4097b51246d4ee73283
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>barcode/code39</SampleName>
+    <SampleID>8465da1da4ad8645e81651958d289ad3
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>barcode/code39extended</SampleName>
+    <SampleID>fc42f8f81265fddf89fa1f92b0d85d0c
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>barcode/code93</SampleName>
+    <SampleID>4f2d98cda4fe29aa5e3b3fd5f6dfe4bf
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>barcode/code93extended</SampleName>
+    <SampleID>aae4c0d6a24892736a8d954e261df5f3
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>barcode/code128a</SampleName>
+    <SampleID>85ff759e2b8836553fc663f65a065e32
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>barcode/code128b</SampleName>
+    <SampleID>4dadc479a51f1a9121aab205ee3398b0
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>barcode/code128c</SampleName>
+    <SampleID>674c8916e8f6f98869887e0c685d9ed1
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>barcode/datamatrix</SampleName>
+    <SampleID>6e621754ae762c6aa5a709cbdc9e3024
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>bulletgraph/basic-use</SampleName>
+    <SampleID>6bb5fd68d329de947b108a9b50b9b2e5
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>bulletgraph/local-data</SampleName>
+    <SampleID>1c263aefdac1b8ab3c695011e58bf2e5
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>bulletgraph/indicator</SampleName>
+    <SampleID>04ce8796d7e870daf4031622f9896ce4
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>button/Default-Functionalities</SampleName>
+    <SampleID>205deb7266bdf25a56875cf7d25945c0
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>button/Toggle-Buttons</SampleName>
+    <SampleID>39f6ddc76684227613ab48659464ea6e
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>button/Split-Buttons</SampleName>
+    <SampleID>d3d0a17e1f23a9a948645ab98c3debc2
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>button/Group-Button</SampleName>
+    <SampleID>54d1bdb9d3bf8487d811c60f510fdcae
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>button/Repeat-Button</SampleName>
+    <SampleID>daef91bed7e174beee9f557d72d56c30
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>button/CheckBox</SampleName>
+    <SampleID>9ecfff89acbc159fe8538a897937bf5e
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>button/Radio-Buttons</SampleName>
+    <SampleID>cc1294f8306691d450c83f61310305ee
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>button/API's</SampleName>
+    <SampleID>2feb10051e7d1ede5552a382954d3332
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>button/Events</SampleName>
+    <SampleID>cb0273fc45ebad8e48b1389c6f9c3dda
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>button/RTL</SampleName>
+    <SampleID>b3220e78e46c2127d753d6e5048d563b
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>chart/line</SampleName>
+    <SampleID>15053c8e35e734f58aeb14d3b82faca9
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>chart/column</SampleName>
+    <SampleID>67c7709c151ae8d11f3576fb99120db0
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>chart/pie</SampleName>
+    <SampleID>f834bccbe275d9baec3ec4ef47357fe3
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>chart/bar</SampleName>
+    <SampleID>bb61ba9f01c79bfd3e275e198e971734
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>chart/polar</SampleName>
+    <SampleID>ded8cf11200e3bf70d1194123303c748
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>chart/3d-column</SampleName>
+    <SampleID>4e0750cff501d671816b6e31f691fa3f
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>chart/3d-pie</SampleName>
+    <SampleID>c46c9d34ebb8d6eacc4b25abbc061179
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>chart/pyramid</SampleName>
+    <SampleID>c285f7432ea718f478640d607af0a043
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>chart/combination</SampleName>
+    <SampleID>b8a630c06ecc2f416e09cf3aba785f68
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>chart/trackball</SampleName>
+    <SampleID>bcb64d177edc3e3fa53d9c0e986992d2
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>chart/zooming</SampleName>
+    <SampleID>fc0bc89b34ee356444a9571e8bca5d8c
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>chart/bubble</SampleName>
+    <SampleID>9e375d1a1daed9bdbc2eaf23491a7fbc
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>chart/candle</SampleName>
+    <SampleID>1f69506e1b5bdbf39125e6b49ac8d0e2
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>chart/live</SampleName>
+    <SampleID>f28befc0102db457238fa690632a31cc
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>circulargauge/basic-use</SampleName>
+    <SampleID>d0e01a44aa9c39ac84b00e04fe36f1f1
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>circulargauge/clock</SampleName>
+    <SampleID>dec1c696c9820497ee680c4802143672
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>circulargauge/half-circular</SampleName>
+    <SampleID>63e86bdadf33deced89d6855d8730f5d
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>circulargauge/pointer-image</SampleName>
+    <SampleID>dde4ea43c54dea6a79bce9807bc4bd0a
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>circulargauge/unit-label</SampleName>
+    <SampleID>f2ec14aaa1283101f8456b8674870c04
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>circulargauge/user-interaction</SampleName>
+    <SampleID>b6b75846c66d35b5fad421653743c82d
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>colorpicker/Default-Functionalities</SampleName>
+    <SampleID>99495fb343f1d0f17bcf35240250522b
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>colorpicker/Display-Inline</SampleName>
+    <SampleID>d81dd7aa5c1352188f4312306d1f3eb5
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>colorpicker/Presets</SampleName>
+    <SampleID>b3b7500898c8973f77468fd43709606c
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>colorpicker/Color-Palette</SampleName>
+    <SampleID>5114dd8f5f378d78e597939e698d3605
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>colorpicker/Custom-Palette</SampleName>
+    <SampleID>b4f892ffe209c724b8b37c953994c4c6
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>colorpicker/API's</SampleName>
+    <SampleID>6d0b8c8356b39dfc5a994963329f5d10
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>colorpicker/Events</SampleName>
+    <SampleID>729f572841823c82f8ab53796f111606
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>datepicker/Default-Functionalities</SampleName>
+    <SampleID>b49d35bb48a9fd0ff94bc0f7a6b0718e
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>datepicker/Date-Range</SampleName>
+    <SampleID>3a0877a277b5ea9fb3f9b461cde9200a
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>datepicker/Date-Format</SampleName>
+    <SampleID>732016f11b5a5c7db44a971ad27a5c40
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>datepicker/Display-Inline</SampleName>
+    <SampleID>f836b77e86ce03d49460012c49c2c7e3
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>datepicker/Dates-In-Other-Months</SampleName>
+    <SampleID>8baa21aaf10e360348e68174e03e9cd5
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>datepicker/Localization</SampleName>
+    <SampleID>61a502771ecf0ee02adfe795a6bc4c04
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>datepicker/API's</SampleName>
+    <SampleID>04c647a25e40bbb042d39fd85c862017
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>datepicker/Events</SampleName>
+    <SampleID>e6def16960dee01c14b8c145b55a0272
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>datepicker/RTL</SampleName>
+    <SampleID>cd7fd713a37f80dbad915c4c28660a7d
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>datetimepicker/Default-Functionalities</SampleName>
+    <SampleID>836e47bf8dced25f75118d5c06d2f9ab
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>datetimepicker/Localization</SampleName>
+    <SampleID>8f30a408f85dcfd5fb8e86bbdaca69d1
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>datetimepicker/API's</SampleName>
+    <SampleID>26d1922fc273190b6d5346dc6f825680
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>datetimepicker/Drilldown-Support</SampleName>
+    <SampleID>ba00adb55c147ebc33cc6c79f0cafb12
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>datetimepicker/Meridian-Support</SampleName>
+    <SampleID>eb5da62bc55a3a65520b01966e18f2bf
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>datetimepicker/Events</SampleName>
+    <SampleID>516760f0b0b61de5bf8dc9bdd6f1f2d4
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>datetimepicker/RTL</SampleName>
+    <SampleID>de07b836f4e494f7c72d7978b8fb3277
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>diagram/default-functionalities</SampleName>
+    <SampleID>d91e87876437c99ed7d7401989039ddb
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>diagram/swimlane</SampleName>
+    <SampleID>4bbcd2555d95919e2489b790c1d1490a
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>diagram/overview</SampleName>
+    <SampleID>3ccc591dadd6c1e75f3f0a865204f023
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>diagram/hierarchical-tree</SampleName>
+    <SampleID>9516b64f180f91b928dc3e78d212390c
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>diagram/organizational-chart</SampleName>
+    <SampleID>a332090257e265001306e05f0447c359
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>diagram/radial-tree</SampleName>
+    <SampleID>91536511b8a48350006325709a341a47
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>diagram/uml-diagram</SampleName>
+    <SampleID>49a0823d606f09ec9ccbe01c30481874
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>diagram/circuit-diagram</SampleName>
+    <SampleID>47f18c066d4ff5eec85b141691208f50
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>diagram/local-databinding</SampleName>
+    <SampleID>52ec02c1eca9a4a5762908b9cdae4067
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>diagram/shapes-gallery</SampleName>
+    <SampleID>b35efbb1bca73fd62c8a1f96efbfe539
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>diagram/connectors</SampleName>
+    <SampleID>ad49b154f31dda93c8a257ceb247c7ef
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>diagram/localization</SampleName>
+    <SampleID>204f554fe86de11f41d55e61bf81f5a0
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>diagram/tooltip</SampleName>
+    <SampleID>eba1eb7fb351f139c3f7f8b8e78ca135
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>diagram/symbol-palette</SampleName>
+    <SampleID>f324e3f3328e8b71edfe509858153b32
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>diagram/team-orgchart</SampleName>
+    <SampleID>5fa12068c73b91746b9398b1a2eb51fb
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>diagram/business-management</SampleName>
+    <SampleID>8824a56acbec5f70cab1e1a492197444
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>diagram/university</SampleName>
+    <SampleID>2ab23053ab8f2d122f4761bb3620e2e4
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>diagram/remote-data-binding</SampleName>
+    <SampleID>236ed3b8f64cf20f1542841984de25d5
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>diagram/html-table</SampleName>
+    <SampleID>3a929ba65dd8c9142f3884b88086a87c
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>dialog/basic-use</SampleName>
+    <SampleID>822f8e8b1df302a713eaf9d27e6a9551
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>dialog/icons</SampleName>
+    <SampleID>7b0f669f08b778243e2e258e63906f2a
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>dialog/rtl</SampleName>
+    <SampleID>462104ba34c96955979a0bd751912f3a
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>dialog/model-dialog</SampleName>
+    <SampleID>5f9f5e72f71211bdf6d57a6117e4359c
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>dialog/multi-dialog</SampleName>
+    <SampleID>1421ccec56e9af997eb37f9cebd429d1
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>digitalGauge/basic-use</SampleName>
+    <SampleID>5f8796d20b318b73174be1534006541b
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>dropdownlist/default-functionalities</SampleName>
+    <SampleID>3eba5442fd8c43286a5187c4b6c7e51f
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>dropdownlist/checkbox</SampleName>
+    <SampleID>cb98375ea9ec2bc2890ad69e93f067d9
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>dropdownlist/API's</SampleName>
+    <SampleID>613b87af3094cb524f1911d91101992f
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>dropdownlist/events</SampleName>
+    <SampleID>b2acc59f5b672a1cf820246d9118cdad
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>dropdownlist/template</SampleName>
+    <SampleID>ed3bd071a3d9bc42a747d46164417e77
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>editors/Default-Functionalities</SampleName>
+    <SampleID>4db6474897427e74ed4c01b7e8d85645
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>editors/Localization</SampleName>
+    <SampleID>14a7c7f06502ceb0cc99ceb1791c3f3e
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>editors/API's</SampleName>
+    <SampleID>d3b1d987aa05e32702265069e1ab72cb
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>editors/Events</SampleName>
+    <SampleID>71dc155c23851a98874a603d6e03a1fb
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>editors/RTL</SampleName>
+    <SampleID>9f80b924721701719111462b4f49c7ce
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>fileexplorer/Default-Functionalities</SampleName>
+    <SampleID>21eb9ee798a6e86fc1b6bdee99904c3e
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>fileexplorer/Events</SampleName>
+    <SampleID>3410fdb6f2ef5019a8acdc12ead68b7c
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>fileexplorer/API's</SampleName>
+    <SampleID>07e214661ae12f5238c4b09bf5a806bc
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>fileexplorer/RTL</SampleName>
+    <SampleID>0ee4e8d80690729eb4d71f5a09e3dbcf
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>fileexplorer/Localization</SampleName>
+    <SampleID>72341c75701699d68111e185e4dc20c7
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>gantt/Default-Funtionalities</SampleName>
+    <SampleID>cfd02458c83718bc2f94e3f16fb392da
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>gantt/Performance</SampleName>
+    <SampleID>1e52e34d881b67110c3c00526ee18316
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>gantt/Self-Reference</SampleName>
+    <SampleID>6fcf4400e9824ccdcb4c9903a795ca6e
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>gantt/Time-Scale-Extension</SampleName>
+    <SampleID>b7078fe41d6c230d8f813352bb0cb1cd
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>gantt/Column-Chooser</SampleName>
+    <SampleID>87532eb95d7bff89b70b65ff210620ff
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>gantt/Context-Menu</SampleName>
+    <SampleID>f650c00896b157a3ec98643503fcd984
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>gantt/Editing</SampleName>
+    <SampleID>eb07ebc5ef6abcac3254a414388e975d
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>gantt/Baseline</SampleName>
+    <SampleID>b9dc106127e81d763d1f476d638d5d04
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>gantt/Resources</SampleName>
+    <SampleID>66d40fbfa79847fe359581acc95c1329
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>gantt/Strip-Lines</SampleName>
+    <SampleID>89e1a6c8779ee0572dd5c2b5acf68515
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>grid/Default-Functionalities</SampleName>
+    <SampleID>4bf0d1d37e93808fdd003069a19f460a
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>grid/remote-Data</SampleName>
+    <SampleID>65b4839e7853e4f91ec63f794d042b8e
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>grid/column-Template</SampleName>
+    <SampleID>5ac0f4a2973a9e59b36ef31cf6f69260
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>grid/row-Template</SampleName>
+    <SampleID>e796b7c5f63bd4b7e77847def5fe76d5
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>grid/cell-Edit-Type</SampleName>
+    <SampleID>4f8bf24ab0fc2d421b95f0bd59ffd8d7
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>grid/multi-Sorting</SampleName>
+    <SampleID>d368e4fe3fb1eedb3d6fb7daf27f2450
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>grid/filtering-menu</SampleName>
+    <SampleID>89f8604eb9512eb6208518bbd96fa3f9
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>grid/grouping</SampleName>
+    <SampleID>8c9080617dfc85ac03b8956698ee2d1f
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>grid/caption-Summary</SampleName>
+    <SampleID>c00c50d6b02615cdc6b07c6339cc09e7
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>grid/localization</SampleName>
+    <SampleID>af8a4416fbaa1c5a9d49cb5eebaa1e33
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>grid/RTL</SampleName>
+    <SampleID>7c29c072ff5d4ab4b3a0aa5f3dc9c0c7
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>heatmap/default-functionalities</SampleName>
+    <SampleID>9b8cd93b75733fab2fb7ed541cbe47cf
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>heatmap/table-binding</SampleName>
+    <SampleID>1f46726e0c4349e10725447f9c5325d6
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>heatmap/virtualization</SampleName>
+    <SampleID>e778b58e1002c6140dd9c642c14ffd57
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>kanban/default</SampleName>
+    <SampleID>fc6400d1a29a7f0851d22db2d7bf1dda
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>kanban/swimlane</SampleName>
+    <SampleID>5c26be53d6df1dd967ea20cba255c889
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>kanban/card-Customization</SampleName>
+    <SampleID>74531ecdb443afb74ef2148ed66b0d3a
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>kanban/card-Template</SampleName>
+    <SampleID>fcdf4d68e8625e46a0b756a9a607d291
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>kanban/column-Constraints</SampleName>
+    <SampleID>cd07764a553e9ee3c0fb1f3f10246357
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>kanban/context-Menu</SampleName>
+    <SampleID>0e1aa33806d660712096b3c0475f86f9
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>kanban/dialog-Editing</SampleName>
+    <SampleID>0a26577d2eff062db97b33e56aa6d308
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>kanban/filtering</SampleName>
+    <SampleID>fb6de8e96b696253c264e6fc4e2cee3f
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>lineargauge/basic-use</SampleName>
+    <SampleID>efbbce7f8760e19849e030c776e96ddf
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>lineargauge/indicators</SampleName>
+    <SampleID>ccd12191b331911e8aa9e67c0410d8ba
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>lineargauge/range</SampleName>
+    <SampleID>a0e8c4ba5820aa19e28d93dbd4af9e33
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>lineargauge/thermometer</SampleName>
+    <SampleID>7a320cd1ffaffd57df49f53ed7721b61
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>lineargauge/tooltip</SampleName>
+    <SampleID>3aa270977d62968641bd0ca6c15fcce1
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>lineargauge/user-interaction</SampleName>
+    <SampleID>7216b4fd005cb5d1ef00430afb4e6d13
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>listbox/basic-use</SampleName>
+    <SampleID>4bdd12d5f4697c24877f93eb21e97ecd
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>listbox/icons</SampleName>
+    <SampleID>8a4554a9978ad17afd995070669cff4c
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>listbox/checkbox</SampleName>
+    <SampleID>1ba267335ff10c6654aa8bf49e744100
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>listbox/cascading</SampleName>
+    <SampleID>6a5565658de735419cd730c1c9a4e66b
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>listbox/data-binding-local</SampleName>
+    <SampleID>03e582a3d7e239e73cb0ae325b82ab9d
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>listbox/data-binding-remote</SampleName>
+    <SampleID>8b5c9e81f15ce8ec87aecd2a126d8409
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>listbox/drag-and-drop</SampleName>
+    <SampleID>ccf8d0ff0a4cfc7bb4644b4f436a4867
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>listbox/grouping</SampleName>
+    <SampleID>2f7d1158bb53c79cf258c8e363c453d6
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>listbox/multi-select</SampleName>
+    <SampleID>942410c0607cfde3f83ac8e4a59361f0
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>listbox/rtl</SampleName>
+    <SampleID>8cf8582fd4e2026f8ffa50a4dbe62eb1
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>listbox/template</SampleName>
+    <SampleID>89267fb70aa0b8ceb52b9a758cd60cc2
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>listbox/tooltip</SampleName>
+    <SampleID>031874b6df83d813ad55800178c3295d
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>listbox/virtual-scrolling</SampleName>
+    <SampleID>5a3179ce4d7c0125bf744ba037809610
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>listview/basic-use</SampleName>
+    <SampleID>f42bbc624e258d67fcd314b45377600f
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>listview/check-list</SampleName>
+    <SampleID>57abd54993a6172c66aea959d31dc2d1
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>listview/data-binding-local</SampleName>
+    <SampleID>f22bea6f779d9aca9f3845ae388b0a2e
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>listview/template</SampleName>
+    <SampleID>1462cef9212ec30229fe1db1d519bb9a
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>map/dataMarkers</SampleName>
+    <SampleID>9027d6729d069c1cd59eb052bb55524d
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>map/heatMap</SampleName>
+    <SampleID>f16f344080dc37cb0953bf254b6298b8
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>map/labels</SampleName>
+    <SampleID>0562b1a49bfe525d3d85c2ea9d44c7a9
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>map/selection</SampleName>
+    <SampleID>0a657584ef9d50c8239e4bd79b1a358f
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>menu/default-functionalities</SampleName>
+    <SampleID>c741e28c5d38cf1c745d3a0238fa8636
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>menu/API's</SampleName>
+    <SampleID>6f52d461a71423af1cc27de3db6ec1ed
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>menu/events</SampleName>
+    <SampleID>02ee289a69d9c22634d22acff37b2f8d
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>menu/context-menu</SampleName>
+    <SampleID>a1feea23cd0db245ef269d8f4403bb59
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>navigationdrawer/basic-use</SampleName>
+    <SampleID>9c10deafe80e9838e04b6b3f9d27d67e
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>pdfviewer/basic-use</SampleName>
+    <SampleID>34c27d7b806a7f39a1ce0e260dd78400
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>pivotchart/relational</SampleName>
+    <SampleID>a9ba4a6785382eab318c0ff2851d16e0
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>pivotchart/OLAP</SampleName>
+    <SampleID>9da34988665075717674bce7f129d49b
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>pivotchart/chart-Types</SampleName>
+    <SampleID>7241feccf889eb6c20cd1340985a8d5f
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>pivotgauge/relational</SampleName>
+    <SampleID>394f35289e2e2e3864028b2db139239c
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>pivotgauge/OLAP</SampleName>
+    <SampleID>6a1d49b734eb75310cd0fe41bd34aa17
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>pivotgrid/relational</SampleName>
+    <SampleID>a3a595a2e01ad1ddc74c5c836a48444b
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>pivotgrid/number-Format</SampleName>
+    <SampleID>e5ffc6f191111176eca80c5b42109d13
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>pivotgrid/summary-Type</SampleName>
+    <SampleID>6ca84c5dedd6593601a11a9eac89d30a
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>pivotgrid/OLAP</SampleName>
+    <SampleID>20cfc770cb2813262d92e5dde040a8ad
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>pivotgrid/kPI</SampleName>
+    <SampleID>3b04810a60526d0ac6e092b963b8b133
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>pivotgrid/named-Set</SampleName>
+    <SampleID>7e49c42ba3933ea1380472740f15615f
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>pivotgrid/hyperlink</SampleName>
+    <SampleID>4728a10f08cb2199902d9a181beca137
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>pivotgrid/conditional-Formatting</SampleName>
+    <SampleID>bd6030f68ea030e20e4034a099f78daf
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>pivotgrid/localization</SampleName>
+    <SampleID>32ee22569934697d1fe0c1c42749741a
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>pivotgrid/exporting</SampleName>
+    <SampleID>d9051d4045f7e1e805bc685df4c6c911
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>pivotgrid/RTL</SampleName>
+    <SampleID>6646d076fc4cdd395bfdf12798f2c292
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>pivottreemap/OLAP</SampleName>
+    <SampleID>8c70b9caa561434ab1dbea4671e23193
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>pivottreemap/color-mapping</SampleName>
+    <SampleID>59b9c96f788408529c5fd0570f3c00e0
+</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>progressbar/default-functionalities</SampleName>
+    <SampleID>9a608fe5ed408dbbf10d5d94e2a492c1</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>progressbar/API's</SampleName>
+    <SampleID>b25c51f1f490c8e46be420ca41e2b1a7</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>progressbar/events</SampleName>
+    <SampleID>a8993650ca733652647a6b3b2aa427e3</SampleID>
+  </GistSamples>
+   <GistSamples>
+    <SampleName>radialmenu/basic-use</SampleName>
+    <SampleID>8586486bee67d07a6f6ccf80bcce088d</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>radialslider/basic-use</SampleName>
+    <SampleID>9c2afc8da65d6f392bdde727ded70ff6</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>rangenavigator/basic-use</SampleName>
+    <SampleID>edd29597ea1a24ab4960ef15cd993fac</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>rangenavigator/numeric</SampleName>
+    <SampleID>95894378478804ad675dff86067f6712</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>rangenavigator/scrollbar</SampleName>
+    <SampleID>4acf1b9dcac6587e67b4c6a069b527e7</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>rating/default-functionalities</SampleName>
+    <SampleID>da28971e708ada85c9e39a2e665fe56f</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>rating/precision</SampleName>
+    <SampleID>32bf41fe72e51af05cf5617ab6c4d79d</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>rating/API's</SampleName>
+    <SampleID>f0e0cb053da5374b93f1e1fb4fc41137</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>rating/Events</SampleName>
+    <SampleID>442aa3fc5a04706d4c27c5aa36fb4878</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>reportviewer/Territory-Sales</SampleName>
+    <SampleID>128e2d96c687708f9f2665104ac6142a</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>reportviewer/Grouping-Aggregate</SampleName>
+    <SampleID>ec499c05459a5f80981dd78a0def69fc</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>reportviewer/Area-Chart</SampleName>
+    <SampleID>2842b18c6ffda29070e2afc3859480a3</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>ribbon/default</SampleName>
+    <SampleID>55c5121f03409a5d82444c16f442d3d7</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>ribbon/Resize</SampleName>
+    <SampleID>9b4e7ce3dac66b5aa05ca6525937446a</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>ribbon/Custom-ToolTip</SampleName>
+    <SampleID>af6505cb8ec792a5d28348aa8d974b43</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>ribbon/Quick-Access-Toolbar</SampleName>
+    <SampleID>0feb8123a7267261fbbca58dcec01bfe</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>rotator/basic-use</SampleName>
+    <SampleID>86789e6a68752e1d88e2de743eeb17cd</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>rotator/databinding-json</SampleName>
+    <SampleID>39b5985f3f34dfc79887cee8d6d1b751</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>rotator/image-with-content</SampleName>
+    <SampleID>cc7fb5a6277120670f75bf89c22c503f</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>rotator/thumbnail</SampleName>
+    <SampleID>fb7d67d67a1a95c978da523eef12260c</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>rte/default-functionalities</SampleName>
+    <SampleID>7befed77a17a78c156c8244e9726b628</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>rte/all-tools</SampleName>
+    <SampleID>2a7e3bff015c8032ccca720cb66f0f2b</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>rte/custom-tools</SampleName>
+    <SampleID>c9dd53632154ee4a52cb1abc1a450b59</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>rte/API's</SampleName>
+    <SampleID>21ecbd414ab68aa112fcfa348772c7ad</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>rte/events</SampleName>
+    <SampleID>6c772d78d5dd859b42921f5553ed50fc</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>rte/file-and-image-browser</SampleName>
+    <SampleID>d2ab1ab8b56bd1041ddeb150b1291f47</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>rte/localization</SampleName>
+    <SampleID>6dea668cc872a48b09c2bbb0ccf0006f</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>schedule/default-functionalities</SampleName>
+    <SampleID>5a2be8753286d8fc9641d1eee99a8183</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>schedule/remote-data</SampleName>
+    <SampleID>f4fb27843f16ed5d1a7dd2afd65bbfea</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>schedule/load-on-demand</SampleName>
+    <SampleID>d9152d731a38da7b7a03418a502136ee</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>schedule/custom-work-hours</SampleName>
+    <SampleID>615803358c5edb97cc1e4b5e95616608</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>schedule/resource-grouping</SampleName>
+    <SampleID>2426c561bdf94d30f1de5d465b244b01</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>schedule/time-scale</SampleName>
+    <SampleID>e77dd8d2a50aeb49cd9e124391c8c258</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>schedule/print-and-export</SampleName>
+    <SampleID>8c299eed7a8bc89fc254a6f69593a877</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>schedule/cell-formatting</SampleName>
+    <SampleID>6b4a1a66adebf320a2835bf2105dc6af</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>schedule/external-drag-and-drop</SampleName>
+    <SampleID>320124c9ea77f3e23b091a6d2ccb301d</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>schedule/template</SampleName>
+    <SampleID>e964d575f2d0652cd15627fd02f532aa</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>schedule/localization</SampleName>
+    <SampleID>f688b93d7ce09b6c0220d97772467d7d</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>schedule/custom-window</SampleName>
+    <SampleID>2a66e8e66809f28284afe868dc99fa28</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>schedule/custom-view</SampleName>
+    <SampleID>b7c36ecb48d473c9c123af4c45712eaf</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>schedule/validation</SampleName>
+    <SampleID>d141afb9a6e6f6027cf31668d4656c6f</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>schedule/api's</SampleName>
+    <SampleID>046b356f4d37b3810615f46850ccfe0b</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>scrollbar/Default-Functionalities</SampleName>
+    <SampleID>a55b27143bc56d1b0a05913cc52899f1</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>slider/Default</SampleName>
+    <SampleID>090ad5593e4879565b44b60d84c1af1f</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>slider/Events</SampleName>
+    <SampleID>11cb05648eb2dc2b1c14e35120e6fc44</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>slider/RTL</SampleName>
+    <SampleID>4cfb932db3dbe2063f14b4c07336b518</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>slider/API's</SampleName>
+    <SampleID>9e35c9e0c1de8395d757dfe2ead9db4f</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>slider/RangeSlider</SampleName>
+    <SampleID>9f99abe4c079e13b4e1573474400ddd4</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>slider/Vertical</SampleName>
+    <SampleID>fb672202290176b321b5027bbb16b1d8</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>sparkline/basic-use</SampleName>
+    <SampleID>1f8979d7133ef6e4568ed4e1167bb6cb</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>splitter/basic-use</SampleName>
+    <SampleID>6d89f03925eeaec28e0d42d59ceceba1</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>splitter/integration</SampleName>
+    <SampleID>df6b0d6f2813b4d825dffa6ff0b7c328</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>splitter/nested-splitter</SampleName>
+    <SampleID>8b3e562c0ad8d5db214455208e36b73a</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>spreadsheet/default-functionalities</SampleName>
+    <SampleID>d07a0ec4b9be446ac437de571f47583e</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>spreadsheet/conditional-format</SampleName>
+    <SampleID>f9fa29e19195f2fa84709bf31718f587</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>spreadsheet/data-validation</SampleName>
+    <SampleID>30e52dd9fd83ea11b0c7f85efbb31731</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>spreadsheet/import-export</SampleName>
+    <SampleID>5164a18e771dd7dd5ac0a306825cbb39</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>spreadsheet/movie-list</SampleName>
+    <SampleID>02a673b16ef84756ac30017b48b90b55</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>spreadsheet/chart</SampleName>
+    <SampleID>4d423a58712f79fd2b7d0ff5a66805d0</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>spreadsheet/pivot</SampleName>
+    <SampleID>38d3c167ff0b0a37fba6f38aca7e00fd</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>tab/default-functionalities</SampleName>
+    <SampleID>093fb541332b1b3d505fa297341cfc26</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>tab/scrollable-tab</SampleName>
+    <SampleID>2bc165425a2fdb12fb1efe395d5512d1</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>tab/API's</SampleName>
+    <SampleID>7a80233b925ed780b4e43671f21d7d71</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>tab/events</SampleName>
+    <SampleID>f2fa62c9b6725bb89f5367dfabfa18a2</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>tab/header-orientation</SampleName>
+    <SampleID>0614625a20a4a2cf67cbf1043d43531e</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>tagcloud/default-functionalities</SampleName>
+    <SampleID>e226caf1607dc19903d2bc6134a33767</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>tagcloud/remote-data</SampleName>
+    <SampleID>91498fcf8a1faf56f59f3562f9a51e30</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>tagcloud/events</SampleName>
+    <SampleID>254eb5dec191812465a81d63ecc7fc56</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>tile/basic-use</SampleName>
+    <SampleID>6ec27a41b995bc58d80a91051065a751</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>tile/live-tile</SampleName>
+    <SampleID>342442d7b01a692dfd1150a616ce4aed</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>timepicker/Default-Functionalities</SampleName>
+    <SampleID>4dc57a1a06f9388a089401b8979ed739</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>timepicker/Localization</SampleName>
+    <SampleID>4bf81ca21ab792cbaf2e188b9b362f62</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>timepicker/API's</SampleName>
+    <SampleID>11c3e4b8e6855f62fffaf2b4b48dcbb7</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>timepicker/Events</SampleName>
+    <SampleID>47eca4d2f7c83b984a5f6137009049bf</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>timepicker/RTL</SampleName>
+    <SampleID>e28bc654f7f63e03864da62be61de4ce</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>toolbar/default-functionalities</SampleName>
+    <SampleID>cd80f5fdc803dcb811e74f9e5d091a3a</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>toolbar/API's</SampleName>
+    <SampleID>92be6ed8ad4f5a8bde6881028ecba9ed</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>toolbar/events</SampleName>
+    <SampleID>79b11b9e3ac1c4f74538d76275c2d1c5</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>tooltip/default-functionalities</SampleName>
+    <SampleID>b55c82a2c61e3946d997301f5f5a4ff4</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>tooltip/API's</SampleName>
+    <SampleID>733c43852e2322641e9c3be0d836b705</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>tooltip/events</SampleName>
+    <SampleID>b9baa1f9af8eec7ae77f1602d06516cf</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>tooltip/ajax-content</SampleName>
+    <SampleID>d9a63edca9e4ec8f88951e7cfc62922d</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>tooltip/position</SampleName>
+    <SampleID>e799aded0dec2f640c7fbefb144fd611</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treegrid/Default-Sample</SampleName>
+    <SampleID>8f1e630916b8eb959d5ad6723d63495c</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treegrid/Self-Reference</SampleName>
+    <SampleID>3e3969a914744a6b1c2464ab49d89e5c</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treegrid/Editing</SampleName>
+    <SampleID>20eca1fca8377df0a04313dc20d2eba6</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treegrid/Column-Filtering</SampleName>
+    <SampleID>f08a07ff6717b9cbffdb9f3f3dc2cdcf</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treegrid/Frozen-Column</SampleName>
+    <SampleID>8bd3f816c73a9a31643c6b29449e081e</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treegrid/Context-Menu</SampleName>
+    <SampleID>1e89c8e633e1215b2c863ad3277805cb</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treegrid/Sorting</SampleName>
+    <SampleID>a43d8d66a2298dbd69195e8259aadb74</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treegrid/Performance</SampleName>
+    <SampleID>733a6b670da670f7be443e674ace567e</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treegrid/Column-Chooser</SampleName>
+    <SampleID>4b7b3ede1209999cd6ee938fea1edbb9</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treemap/flatCollection</SampleName>
+    <SampleID>ec2095541da80f8ac245c555e632f08c</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treemap/customization</SampleName>
+    <SampleID>f2905a629daa7a19581aa7fbd6bb4317</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treemap/hierarchical</SampleName>
+    <SampleID>b1f5274367f8f245ecbe275f90f46cbe</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treeview/Default-Functionalities</SampleName>
+    <SampleID>04e955ca1b7074f8f104a68f149cc769</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treeview/Icons</SampleName>
+    <SampleID>ea2bc3ef61d83fef12e50e95e730eb35</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treeview/Checkboxes</SampleName>
+    <SampleID>7417539d4b23140bf5d7fb0885f22625</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treeview/Node-Editing</SampleName>
+    <SampleID>d33cca450bbd0848704636aa3a77e9c6</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treeview/Drag-And-Drop</SampleName>
+    <SampleID>0ae58e4925582f1a6f7533460336f72e</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treeview/Data-Binding-Local</SampleName>
+    <SampleID>6abd2f0871c2d84a4ebb541652c3c628</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treeview/Data-Binding-Remote</SampleName>
+    <SampleID>15a451756e938a6034e4aed7154205be</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treeview/Load-On-Demand</SampleName>
+    <SampleID>dac83f74ca7fc6ffa107804b39ddb1f8</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treeview/Context-Menu</SampleName>
+    <SampleID>3076edb919996ef536fea09c06f85abd</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treeview/State-Maintenance</SampleName>
+    <SampleID>d3c78275aabde744a91832d28af12d4d</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treeview/API's</SampleName>
+    <SampleID>90214e22b0c5130dc41a442691303f71</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treeview/Events</SampleName>
+    <SampleID>28118dc473c260a15a7e4a8a3f5861ca</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>treeview/RTL</SampleName>
+    <SampleID>28f232c580d573afa3a8c5ad234d2937</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>uploadbox/default-functionalities</SampleName>
+    <SampleID>6045267cb4290ad53c1450bcd8a01a03</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>uploadbox/drag-and-drop</SampleName>
+    <SampleID>d03867fac4d2e99413a3932d83e3aef1</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>uploadbox/file-input</SampleName>
+    <SampleID>353de520f23ec2623576accdfff30f67</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>uploadbox/API's</SampleName>
+    <SampleID>ab51332c96740882665239d52f1ebf6f</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>uploadbox/events</SampleName>
+    <SampleID>097b6a8a660e8433eb370d12c72736c3</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>waitingpopup/default-functionalities</SampleName>
+    <SampleID>ab3178aa95319f34568be810f90f31d1</SampleID>
+  </GistSamples>
+  <GistSamples>
+    <SampleName>waitingpopup/template</SampleName>
+    <SampleID>978b47535ef7f9e79be10af1baed46f6</SampleID>
+  </GistSamples>
+</ArrayOfGistSamples>
