@@ -2,8 +2,13 @@
 <require from="../node_modules/syncfusion-javascript/Content/ej/web/bootstrap-theme/ej.web.all.min.css"></require>
 <require from="../node_modules/syncfusion-javascript/Content/ej/web/responsive-css/ej.responsive.css"></require>
 <div>
-  <ej-grid e-data-source.two-way="gridData" e-allow-paging=true e-allow-sorting=true 
-          e-on-record-click.delegate="recordClick($event.detail)">
+  <ej-grid 
+    e-data-source.two-way="gridData" 
+    e-allow-paging=true 
+    e-allow-sorting=true 
+    e-edit-settings.bind="edit" 
+    e-toolbar-settings.bind="toolbar"
+    e-on-record-click.delegate="recordClick($event.detail)">
     <ej-column e-field="OrderID" e-header-text="Order ID" e-text-align="right"></ej-column>
     <ej-column e-field="CustomerID" e-header-text="Customer ID"></ej-column>
    <ej-column e-field="EmployeeID" e-header-text="Employee ID" e-text-align="right"></ej-column>

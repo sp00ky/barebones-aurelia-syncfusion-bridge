@@ -1,5 +1,8 @@
 export class App {
   gridData: any[];
+    edit = { allowEditing: true, allowAdding: true, allowDeleting: true };
+    toolbar = { showToolbar: true, toolbarItems: [ "add", "edit", "delete", "update", "cancel" ] }; // , toolbarItems: [ej.Grid.ToolBarItems.Add, ej.Grid.ToolBarItems.Edit, ej.Grid.ToolBarItems.Delete, ej.Grid.ToolBarItems.Update, ej.Grid.ToolBarItems.Cancel] 
+    
 constructor() {
   this.gridData = [{
     OrderID: 10248, CustomerID: 'VINET', EmployeeID: 5,

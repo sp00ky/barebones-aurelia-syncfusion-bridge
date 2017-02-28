@@ -146,6 +146,11 @@
             "name": "jsrender",
             "path": "../node_modules/jsrender/",
             "main": "jsrender"  
+          },
+          {
+            "name": "pouchdb",
+            "path": "../node_modules/pouchdb/dist",
+            "main": "pouchdb"
           }
         ]
       }
