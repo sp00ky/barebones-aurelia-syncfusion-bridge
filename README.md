@@ -8,5 +8,7 @@ Since node_modules is typically ignored, you may have to fix one of the files in
 
 Open node_modules\syncfusion-javascript\Content\ej\web\bootstrap-theme\ej.web.all.min.css file and replace the old one with following line.
 
- @import url("../ej.widgets.core.bootstrap.min.css");
- @import url("./ej.theme.min.css");
+```javascript
+@import url("../ej.widgets.core.bootstrap.min.css");
+@import url("./ej.theme.min.css");
+```
